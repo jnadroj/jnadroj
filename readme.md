@@ -1,6 +1,5 @@
 <h2 style="margin-right:10px;">Hi, I'm Jordan Jaramillo! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/source.gif" width="50" > </h2>
 
-<p><em>Studying at <a href="https://itsgg.edu.ec/">ITSGG</a></em></p>
 <p><em>Senior Frontend Developer at <a href="https://www.crehana.com/">Crehana</a></em></p>
 
 [![Twitter: jordanrjdev](https://img.shields.io/twitter/follow/jordanrjdev?style=social)](https://twitter.com/jordanrjdev)
