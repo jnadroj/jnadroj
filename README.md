@@ -15,12 +15,12 @@ I learned programming since I was 15 years old, in my free time I write small pu
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   12 hrs 53 mins  █████████████▒░░░░░░░░░░░   53.48 %
-Vue.js       8 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   33.68 %
-YAML         1 hr 4 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 %
-JavaScript   48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
-JSON         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Markdown     23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+TypeScript   17 hrs 28 mins  ████████████▓░░░░░░░░░░░░   51.23 %
+Vue.js       12 hrs 39 mins  █████████▒░░░░░░░░░░░░░░░   37.11 %
+YAML         1 hr 4 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+JavaScript   1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Markdown     53 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+JSON         38 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
