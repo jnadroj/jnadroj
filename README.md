@@ -12,6 +12,8 @@ I learned programming since I was 15 years old, in my free time I write small pu
 
 <div align="center">
 
+### 📊 **This month i spent my time on:**
+
 <!--START_SECTION:waka-->
 
 ```text
