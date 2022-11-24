@@ -17,11 +17,12 @@ I learned programming since I was 15 years old, in my free time I write small pu
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   43 hrs 37 mins  ███████████▓░░░░░░░░░░░░░   46.89 %
-Vue.js       35 hrs 33 mins  █████████▓░░░░░░░░░░░░░░░   38.22 %
-JavaScript   4 hrs 28 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
-Go           2 hrs 59 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-Other        1 hr 11 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+TypeScript   38 hrs 41 mins  ███████████▒░░░░░░░░░░░░░   44.85 %
+Vue.js       33 hrs 59 mins  ██████████░░░░░░░░░░░░░░░   39.40 %
+JavaScript   4 hrs 35 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+Go           2 hrs 59 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
+JSON         1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+Other        1 hr 2 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
