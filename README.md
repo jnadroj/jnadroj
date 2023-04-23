@@ -17,12 +17,12 @@ I learned programming since I was 15 years old, in my free time I write small pu
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   31 hrs 27 mins  ██████████████░░░░░░░░░░░   55.79 %
-Python       9 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
-JavaScript   7 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.27 %
-C#           5 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-CSS          1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-Sass         1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+TypeScript   30 hrs 47 mins  ██████████████▒░░░░░░░░░░   56.71 %
+Python       9 hrs 19 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.16 %
+JavaScript   7 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.30 %
+C#           4 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+CSS          1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Sass         1 hr            ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
