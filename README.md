@@ -17,9 +17,9 @@ I learned programming since I was 15 years old, in my free time I write small pu
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   26 hrs 27 mins  ███████████████████▒░░░░░   76.73 %
-Sass         7 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-JSON         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+JavaScript   25 hrs 29 mins  ███████████████████▒░░░░░   77.07 %
+Sass         7 hrs 19 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.17 %
+JSON         12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
