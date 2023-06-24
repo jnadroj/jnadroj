@@ -17,11 +17,11 @@ I learned programming since I was 15 years old, in my free time I write small pu
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 40 mins    ████████████▓░░░░░░░░░░░░   50.72 %
-XML          52 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.26 %
-Markdown     14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.22 %
-SQL          12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.33 %
-Other        8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
+XML          52 mins         █████████████░░░░░░░░░░░░   52.50 %
+Markdown     14 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
+SQL          12 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.65 %
+Other        8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
+Bash         8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 %
 ```
 
 <!--END_SECTION:waka-->
