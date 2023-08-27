@@ -17,11 +17,11 @@ I learned programming since I was 15 years old, in my free time I write small pu
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript       126 hrs 3 mins  █████████████████████▒░░░   85.60 %
-SCSS             7 hrs 49 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
-Dart             2 hrs 14 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-JSON             2 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Bash             1 hr 49 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+TypeScript       125 hrs 38 mins █████████████████████░░░░   84.19 %
+SCSS             7 hrs 31 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Dart             4 hrs 56 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.32 %
+JSON             2 hrs 13 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Bash             1 hr 49 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
 ```
 
 <!--END_SECTION:waka-->
