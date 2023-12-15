@@ -17,11 +17,11 @@ I learned programming since I was 15 years old, in my free time I write small pu
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        8 hrs 48 mins   ██████████████████░░░░░░░   72.06 %
-Java Properties   1 hr 4 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
-XML               49 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
-Bash              38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.27 %
-Other             25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+TypeScript        7 hrs 23 mins   █████████████████░░░░░░░░   68.45 %
+Java Properties   1 hr 4 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+XML               49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Bash              38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+Other             25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
 ```
 
 <!--END_SECTION:waka-->
