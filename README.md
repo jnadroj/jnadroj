@@ -17,11 +17,7 @@ I learned programming since I was 15 years old, in my free time I write small pu
 <!--START_SECTION:waka-->
 
 ```txt
-Other        28 mins         ███████████▒░░░░░░░░░░░░░   44.69 %
-XML          14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
-SCSS         14 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
-TypeScript   4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-Bash         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
